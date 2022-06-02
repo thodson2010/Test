@@ -9,6 +9,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     for (int i =0; i<5; i++){
         test_function(i);
+        // This is a comment
     }
     return 0;
 }
